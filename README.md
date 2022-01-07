@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @worldofrice
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+no
 
 <!---
 worldofrice/worldofrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
